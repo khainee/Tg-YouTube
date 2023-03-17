@@ -12,13 +12,13 @@ class Config:
 
     CLIENT_ID = ""
 
-    CLIENT_SECRET = ""
+    CLIENT_SECRET = "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"
 
     AUTH_USERS = [5227230295]
 
-    VIDEO_DESCRIPTION = ""
+    VIDEO_DESCRIPTION = "aa"
 
-    VIDEO_CATEGORY = ""
+    VIDEO_CATEGORY = "aa"
 
     VIDEO_TITLE_PREFIX = ""
 
